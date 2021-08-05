@@ -23,6 +23,13 @@
   </url>
   
   <url>
+    <loc>https://vkstupid.vercel.app/categories/index.html</loc>
+    
+    <lastmod>2021-08-05</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://vkstupid.vercel.app/comments/index.html</loc>
     
     <lastmod>2021-08-05</lastmod>
@@ -51,14 +58,14 @@
   </url>
   
   <url>
-    <loc>https://vkstupid.vercel.app/tags/index.html</loc>
+    <loc>https://vkstupid.vercel.app/pwa/manifest.json</loc>
     
     <lastmod>2021-08-05</lastmod>
     
   </url>
   
   <url>
-    <loc>https://vkstupid.vercel.app/categories/index.html</loc>
+    <loc>https://vkstupid.vercel.app/tags/index.html</loc>
     
     <lastmod>2021-08-05</lastmod>
     
