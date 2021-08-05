@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://vkstupid.vercel.app/photo/index.html</loc>
+    
+    <lastmod>2021-08-05</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://vkstupid.vercel.app/tags/index.html</loc>
+    
+    <lastmod>2021-08-05</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://vkstupid.vercel.app/2021/08/04/HowToWrite/</loc>
     
     <lastmod>2021-08-05</lastmod>
@@ -16,6 +30,13 @@
   </url>
   
   <url>
+    <loc>https://vkstupid.vercel.app/about/index.html</loc>
+    
+    <lastmod>2021-08-05</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://vkstupid.vercel.app/categories/index.html</loc>
     
     <lastmod>2021-08-05</lastmod>
@@ -24,20 +45,6 @@
   
   <url>
     <loc>https://vkstupid.vercel.app/link/index.html</loc>
-    
-    <lastmod>2021-08-05</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://vkstupid.vercel.app/photo/index.html</loc>
-    
-    <lastmod>2021-08-05</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://vkstupid.vercel.app/tags/index.html</loc>
     
     <lastmod>2021-08-05</lastmod>
     
