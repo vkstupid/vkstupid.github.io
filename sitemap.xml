@@ -2,35 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://vkstupid.vercel.app/2021/08/04/HowToWrite/</loc>
-    
-    <lastmod>2021-08-05</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://vkstupid.vercel.app/2021/08/05/hello-world/</loc>
-    
-    <lastmod>2021-08-05</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://vkstupid.vercel.app/manifest.json</loc>
-    
-    <lastmod>2021-08-05</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://vkstupid.vercel.app/categories/index.html</loc>
-    
-    <lastmod>2021-08-05</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://vkstupid.vercel.app/comments/index.html</loc>
     
     <lastmod>2021-08-05</lastmod>
     
@@ -58,14 +30,42 @@
   </url>
   
   <url>
-    <loc>https://vkstupid.vercel.app/pwa/manifest.json</loc>
+    <loc>https://vkstupid.vercel.app/tags/index.html</loc>
     
     <lastmod>2021-08-05</lastmod>
     
   </url>
   
   <url>
-    <loc>https://vkstupid.vercel.app/tags/index.html</loc>
+    <loc>https://vkstupid.vercel.app/2021/08/04/HowToWrite/</loc>
+    
+    <lastmod>2021-08-05</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://vkstupid.vercel.app/2021/08/05/hello-world/</loc>
+    
+    <lastmod>2021-08-05</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://vkstupid.vercel.app/categories/index.html</loc>
+    
+    <lastmod>2021-08-05</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://vkstupid.vercel.app/comments/index.html</loc>
+    
+    <lastmod>2021-08-05</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://vkstupid.vercel.app/img/siteicon/README.html</loc>
     
     <lastmod>2021-08-05</lastmod>
     
