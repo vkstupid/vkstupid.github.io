@@ -39,7 +39,7 @@
   isPhotoFigcaption: true,
   islazyload: false,
   isanchor: true
-}</script><script id="config-diff">var GLOBAL_CONFIG_SITE={title:"页面没有找到",isPost:!1,isHome:!1,isHighlightShrink:!1,isToc:!1,postUpdate:"2021-08-07 14:36:21"}</script><noscript><style>#nav{opacity:1}.justified-gallery img{opacity:1}#post-meta time,#recent-posts time{display:inline!important}</style></noscript><script>(win=>{
+}</script><script id="config-diff">var GLOBAL_CONFIG_SITE={title:"页面没有找到",isPost:!1,isHome:!1,isHighlightShrink:!1,isToc:!1,postUpdate:"2021-08-28 02:33:18"}</script><noscript><style>#nav{opacity:1}.justified-gallery img{opacity:1}#post-meta time,#recent-posts time{display:inline!important}</style></noscript><script>(win=>{
     win.saveToLocal = {
       set: function setWithExpiry(key, value, ttl) {
         if (ttl === 0) return
@@ -151,7 +151,18 @@
   }
 }
 window.addEventListener('load',preloader.endLoading())
-setTimeout(function(){preloader.endLoading();}, 5000);</script><div class="js-pjax"></div><script>window.addEventListener('load', () => {
+setTimeout(function(){preloader.endLoading();}, 5000);</script><div class="js-pjax"><script>if (document.getElementsByClassName('mermaid').length) {
+  if (window.mermaidJsLoad) mermaid.init()
+  else {
+    getScript('https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js').then(() => {
+      window.mermaidJsLoad = true
+      mermaid.initialize({
+        theme: 'default',
+      })
+      true && mermaid.init()
+    })
+  }
+}</script></div><script>window.addEventListener('load', () => {
   const changeContent = (content) => {
     if (content === '') return content
 
